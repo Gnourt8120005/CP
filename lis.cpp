@@ -66,7 +66,5 @@ int main()
         
     }
 
-    cout << kq;
-
-    return 0;
+    return 0; 
 }
