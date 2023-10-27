@@ -65,6 +65,8 @@ int main()
         kq = max(kq , result[i]);
         
     }
+    
+    cout << kq; 
 
     return 0; 
 }
